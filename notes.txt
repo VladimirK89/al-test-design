@@ -1,0 +1,17 @@
+FONTS
+
+Typeface: CartoGothic Pro
+
+Size
+    Control labels: 15px
+    Table lables: 14px
+    Sall buttons: 15px
+    Large buttons:18px
+    p: 15px
+    h1: 24px; (top)
+    h2: 22px; (following)
+    small note: 12px
+    
+
+    Login container: 459px
+    Modal container: 620px
